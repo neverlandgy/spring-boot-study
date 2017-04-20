@@ -9,8 +9,8 @@
 		<version>${application.version}</version>
 		<relativePath>../hebephrenic-parent</relativePath>
 	</parent>
-	<artifactId>hebephrenic-web</artifactId>
-	<name>hebephrenic-web</name>
+	<artifactId>hebephrenic-start</artifactId>
+	<name>hebephrenic-start</name>
 	<packaging>war</packaging>
 
 	<properties>
